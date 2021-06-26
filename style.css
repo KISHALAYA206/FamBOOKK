@@ -1,0 +1,19 @@
+body
+{
+text-align: center;
+color:rgba(140, 63, 155, 0.678);
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+background-color:rgb(174, 196, 230);
+font-weight: 700;
+}
+
+p
+{
+    color: black;
+    font-family:monospace;
+}
+img 
+{
+    height: 400px;
+    width: 350px;
+}
